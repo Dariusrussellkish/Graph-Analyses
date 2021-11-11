@@ -1,7 +1,0 @@
-README.md
-setup.py
-GraphAnalyses.egg-info/PKG-INFO
-GraphAnalyses.egg-info/SOURCES.txt
-GraphAnalyses.egg-info/dependency_links.txt
-GraphAnalyses.egg-info/not-zip-safe
-GraphAnalyses.egg-info/top_level.txt
